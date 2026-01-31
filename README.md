@@ -40,21 +40,21 @@ onde eu possa aprender, evoluir e contribuir com soluções reais.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🔥 Estatísticas de Atividade
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=AndreyDiasFerreira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyDiasFerreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+    src="https://streak-stats.demolab.com?user=andreydiasferreira&theme=tokyonight&hide_border=true" 
+    height="180"
   />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=andreydiasferreira&theme=tokyo-night&hide_border=true" 
+  />
+</p>
+
 
 <br/><br/><br/><br/>
 
