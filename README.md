@@ -62,7 +62,7 @@ onde eu possa aprender, evoluir e contribuir com soluções reais.
 ---
 
 ## 📫 Contato
-- 💼 LinkedIn: https://linkedin.com/in/SEULINKEDIN  
-- 📧 Email: seuemail@email.com  
+- 💼 LinkedIn: https://github.com/AndreyDiasFerreira  
+- 📧 Email: andreydiasfe@gmail.com  
 
 ⭐ Fique à vontade para explorar meus repositórios!
